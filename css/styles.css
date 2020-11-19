@@ -241,7 +241,7 @@ html {
   /* Begin Grid Gallery Styles */
   .gallery-page {
     padding: 0 1rem 10rem 1rem;
-    color: rgb(248, 243, 220);;
+    color: rgb(248, 243, 220);
   }
   
   .portfolio-gallery {
@@ -300,6 +300,7 @@ html {
   .shop-page .text-box {
     max-width: 80ch;
     margin: 0 auto;
+    color:rgb(248, 243, 220);
   }
   .shop-box {
     width: 266px;
@@ -350,14 +351,16 @@ html {
   
   .shop-item p {
     margin: 0;
+    color: rgb(248, 243, 220);
   }
   
   .shop-item h2 {
     margin-bottom: 0;
+    color: rgb(248, 243, 220);
   }
   
   .shop-item a {
-    color: black;
+    color: rgb(248, 243, 220);
   }
   /* Footer Nav Extra Sytles */
   .footer-logo {
