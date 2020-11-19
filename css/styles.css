@@ -116,7 +116,7 @@ html {
     border-bottom: 1px solid rgba(0, 0, 0, 0);
   }
   
-  /* Homepage Hero */
+  /* Hero Homepage */
   
   .hero-box {
     display: grid;
@@ -215,6 +215,7 @@ html {
   
   .about-text {
     margin: 0 auto;
+    color:rgb(248, 243, 220);
   }
   
   .about-text h1 {
