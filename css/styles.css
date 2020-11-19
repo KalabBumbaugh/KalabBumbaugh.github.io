@@ -103,7 +103,7 @@ html {
   
   .hero-nav .logo a,
   .hero-nav .nav-menu a {
-    color: white;
+    color: rgb(248, 243, 220);
   }
   
   .hero-nav .nav-menu a:hover {
@@ -137,7 +137,7 @@ html {
   
   .hero-image-box::after {
     content: "";
-    background-color: rgba(0, 0, 0, 0.4);
+    background-color: rgba(0, 0, 0, 0.3);
     height: 100%;
     width: 100%;
     position: absolute;
@@ -174,23 +174,23 @@ html {
     letter-spacing: 0.05rem;
     font-weight: bold;
     text-transform: uppercase;
-    color: white;
+    color: rgb(248, 243, 220);
   }
   
   .hero-text {
     font-size: 1rem;
     margin-top: 0.5rem;
-    color: white;
+    color: rgb(248, 243, 220);
   }
   
   .hero-button {
     display: inline-block;
     padding: 0.75rem 2rem;
     background: none;
-    color: white;
+    color: rgb(248, 243, 220);
     font-size: 1.2rem;
     font-weight: bold;
-    border: 1px solid white;
+    border: 1px solid rgb(248, 243, 220);
     border-radius: 5px;
     margin-top: 2rem;
   }
