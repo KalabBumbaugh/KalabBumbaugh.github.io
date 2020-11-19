@@ -12,7 +12,7 @@ html {
     padding: 0;
     min-height: 100%;
     background-color: rgb(54, 43, 53);
-    /* background-image: url("../img/GradientBackground.png"); */
+    /* background-image: url("../img/KalabBumbaughWallpaperGalaxy1.png"); */
   }
   
   *,
@@ -36,7 +36,7 @@ html {
     align-items: center;
     line-height: 1rem;
     overflow: hidden;
-    background-color: rgb(54, 43, 53);
+    background-color: rgba(54, 43, 53, 0);
   }
   
   .logo,
